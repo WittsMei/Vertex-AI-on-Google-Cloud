@@ -6,6 +6,7 @@
 - 它整合了 Google 的 AI 工具和服务，如 AutoML、TensorFlow、BigQuery、TPU、Kubeflow Pipelines 等，为开发者、数据科学家和企业提供一站式的 AI 开发平台。
 
 
-### 典型的和应用场景
-![1751599447479](https://github.com/user-attachments/assets/7afd2a61-8c5b-4f8b-bb61-8f7fd436f8b5)
+### 典型广告行业应用场景
+![1751599632229](https://github.com/user-attachments/assets/1327f2e8-1053-461a-b68d-bce57f8f0dc5)
+
 
