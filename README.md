@@ -7,7 +7,8 @@
 
 
 ### Vertex AI 在广告行业的应用
-![1751599777822](https://github.com/user-attachments/assets/a2527a8e-c306-4cfc-97e9-ea8368527752)
+![1751600148589](https://github.com/user-attachments/assets/9242afe5-0bd7-475c-a135-01449b26815f)
+
 
 
 
