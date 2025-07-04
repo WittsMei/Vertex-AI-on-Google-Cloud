@@ -7,6 +7,7 @@
 
 
 ### 典型广告行业应用场景
-![1751599632229](https://github.com/user-attachments/assets/1327f2e8-1053-461a-b68d-bce57f8f0dc5)
+![1751599777822](https://github.com/user-attachments/assets/a2527a8e-c306-4cfc-97e9-ea8368527752)
+
 
 
