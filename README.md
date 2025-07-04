@@ -6,7 +6,7 @@
 - 它整合了 Google 的 AI 工具和服务，如 AutoML、TensorFlow、BigQuery、TPU、Kubeflow Pipelines 等，为开发者、数据科学家和企业提供一站式的 AI 开发平台。
 
 
-### 典型广告行业应用场景
+### Vertex AI 在广告行业的应用
 ![1751599777822](https://github.com/user-attachments/assets/a2527a8e-c306-4cfc-97e9-ea8368527752)
 
 
